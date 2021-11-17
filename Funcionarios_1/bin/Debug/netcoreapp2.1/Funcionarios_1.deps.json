@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Funcionarios_1/1.0.0": {
+        "runtime": {
+          "Funcionarios_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funcionarios_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
